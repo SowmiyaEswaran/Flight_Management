@@ -1,0 +1,27 @@
+{
+  "flightDetails": {
+    "flightNumber": "MI304",
+    "dateOfJourney": "2024-05-24",
+    "seatNum": "508",
+    "journeyDuration": "04:30"
+      },
+  "passengerDetails": [
+    {
+      "name": "sowmiya",
+      "age": "30",
+      "mailId": "es@gmail.com",
+      "passportNum": "BG1234545"
+    },
+    {
+      "name": "sabari",
+      "age": "30",
+      "mailId": "es@gmail.com",
+      "passportNum": "GT2387245"
+    }
+  ],
+  "paymentDetails": {
+    "modeOfPayment": "MasterCard",
+    "dateOfTransaction": "2024-03-25",
+    "totalAmount": 2345.98
+  }
+}
